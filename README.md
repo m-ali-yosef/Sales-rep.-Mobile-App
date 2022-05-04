@@ -1,5 +1,5 @@
 # Sales-rep.-Mobile-App
-<h1>Sales Rep. Mobile Application </h1>
+
 <h3><center>The application scope:</center></h3>
  Will serve all the eligible users for the mobile application sales rep to follow up with their customers, achieve their targets, and cover their areas faster than at any time.
 
